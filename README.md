@@ -7,4 +7,4 @@ Geometry Dash homebrew project for the PlayStation 5.
 * **Other Firmwares:** Untested.
 
 ## Installation
-Go to the **Releases** section on the right side of this page and download the latest. Follow your standard PS5 payload loader instructions to run the archive on your console.
+Go to the **Releases** section on the right side of this page and download the latest. Put the folder that was inside the zip in data/homebrew and run shadowmount plus
